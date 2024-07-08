@@ -10,8 +10,8 @@
 
 - [my web app](https://github.com/Oseni-Muhammad/muhammad-web-app)
 
-## Demo
+## Assignment
 
-[Check Demo](https://oseni-muhammad.github.io/Web-Development/)
+[Check Assignment](https://oseni-muhammad.github.io/muhammad-web-app/)
 
 ### BY Oseni-Muhammad
